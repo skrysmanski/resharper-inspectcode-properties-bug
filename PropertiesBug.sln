@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetLibrary", "DotNetLibrary\DotNetLibrary.csproj", "{F9508E5A-6FDF-4525-9FA8-8AB36B1460DF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppCliLibrary", "CppCliLibrary\CppCliLibrary.vcxproj", "{F3BFF5A2-474C-4968-B615-86C2CB80855B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		InspectCode|x64 = InspectCode|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9508E5A-6FDF-4525-9FA8-8AB36B1460DF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F9508E5A-6FDF-4525-9FA8-8AB36B1460DF}.Debug|x64.Build.0 = Debug|Any CPU
+		{F9508E5A-6FDF-4525-9FA8-8AB36B1460DF}.InspectCode|x64.ActiveCfg = Release|Any CPU
+		{F9508E5A-6FDF-4525-9FA8-8AB36B1460DF}.InspectCode|x64.Build.0 = Release|Any CPU
+		{F9508E5A-6FDF-4525-9FA8-8AB36B1460DF}.Release|x64.ActiveCfg = Release|Any CPU
+		{F9508E5A-6FDF-4525-9FA8-8AB36B1460DF}.Release|x64.Build.0 = Release|Any CPU
+		{F3BFF5A2-474C-4968-B615-86C2CB80855B}.Debug|x64.ActiveCfg = Debug|x64
+		{F3BFF5A2-474C-4968-B615-86C2CB80855B}.Debug|x64.Build.0 = Debug|x64
+		{F3BFF5A2-474C-4968-B615-86C2CB80855B}.InspectCode|x64.ActiveCfg = Release|x64
+		{F3BFF5A2-474C-4968-B615-86C2CB80855B}.InspectCode|x64.Build.0 = Release|x64
+		{F3BFF5A2-474C-4968-B615-86C2CB80855B}.Release|x64.ActiveCfg = Release|x64
+		{F3BFF5A2-474C-4968-B615-86C2CB80855B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

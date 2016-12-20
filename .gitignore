@@ -1,0 +1,9 @@
+.vs/
+Release/
+Debug/
+*.user
+*.VC.db
+ipch/
+CommandLineTools/
+_ReSharper.Caches/
+resharper-cache/
